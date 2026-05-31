@@ -12,16 +12,20 @@
 
 💡 In my profile, you’ll find projects focused on applied Machine Learning, predictive analytics, data optimization, and AI solutions—always aiming for robust, scalable, and production-ready systems.
 
-🌱 I’m constantly learning and evolving, particularly in advanced Deep Learning techniques, MLOps, and cloud data platforms. Let’s connect and build intelligent, data-driven solutions together!
+🌱 I’m constantly learning and evolving, particularly in advanced Deep Learning techniques, MLOps, and cloud data platforms.
 
-<h4> Languages </h4>
+📫 Reach out to me at: jimenezmichellevanesa@gmail.com
+
+<h4> 🧱 Data Engineering & Orchestration </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+
+
+<h4> 🐍 Programming & Querying </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">
 </span>
 
 <h4> Frameworks </h4>
